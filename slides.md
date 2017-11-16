@@ -43,6 +43,7 @@ Typos
 :::
 
 - First commit September 2012
+  - Originally a project to compile ruby
 - Got involved Spring 2016
 - Core maintainer June 2017
 
@@ -50,7 +51,6 @@ Typos
 
 ---
 
-> - Originally a project to compile ruby
 > - Dynamic languages tradeoff speed for flexibility
 > - Compiled languages tradeoff flexibility for speed
 > - Static type checking reduces errors
