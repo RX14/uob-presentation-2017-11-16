@@ -42,11 +42,11 @@ Typos
 - Find a (medium-size) project you like and press the github watch button
 :::
 
- - First commit: September 2012
-   - Originally a project to compile ruby
- - Personal involvement
-   - Got involved Spring 2016
-   - Core maintainer since June 2017
+- First commit: September 2012
+  - Originally a project to compile ruby
+- Personal involvement
+  - Got involved Spring 2016
+  - Core maintainer since June 2017
 
 # Motivation
 
