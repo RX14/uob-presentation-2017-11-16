@@ -23,8 +23,8 @@ Typos
 >   - Even kernels!
 > - Based on Ruby syntax
 >   - It's not Ruby
->   - Keep the programmer happy
->   - At the expense of the compiler
+>   - Keep the programmer happy...
+>   - ...at the expense of the compiler
 > - Statically typed (safe)
 > - Fast!
 > - Awesome!
@@ -42,19 +42,20 @@ Typos
 - Find a (medium-size) project you like and press the github watch button
 :::
 
-- First commit September 2012
-  - Originally a project to compile ruby
-- Got involved Spring 2016
-- Core maintainer June 2017
+ - First commit: September 2012
+   - Originally a project to compile ruby
+ - Personal involvement
+   - Got involved Spring 2016
+   - Core maintainer since June 2017
 
 # Motivation
 
 ---
 
-> - Dynamic languages tradeoff speed for flexibility
-> - Compiled languages tradeoff flexibility for speed
+> - Dynamic languages trade off speed for flexibility
+> - Compiled languages trade off flexibility for speed
 > - Static type checking reduces errors
-> - But we want the best of all worlds!
+> - ...But we want the best of all worlds!
 
 # What does it look like?
 
